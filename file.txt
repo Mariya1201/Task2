@@ -1,0 +1,2 @@
+hori 1.txt wtrw
+vert 1.txt 5435ws
